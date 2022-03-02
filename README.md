@@ -1,2 +1,2 @@
-# pizza-react
+# first-repository
 Website similar to DODO pizza 
